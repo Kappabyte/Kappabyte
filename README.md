@@ -1,5 +1,5 @@
 # Avery Keuben
-Hi, I'm Avery, a high school student in Alberta, Canada. With a passion for programming and solving puzzles, I am currently seeking internship oppertunities over the summer.
+Hi, I'm Avery, a high school student in Alberta, Canada with a passion for programming and solving puzzles. I am currently seeking internship oppertunities over the summer.
 
 ## My Projects
 I have many projects in various states of completion:
