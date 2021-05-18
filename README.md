@@ -15,4 +15,4 @@ I have many projects in various states of completion:
 - DotMarch - A simple website to create a visual representation of your "dots" for a field show, creating a printable PDF. Currently in a pre-alpha state, and in a private repo.
 
 ## Goals
-My goal is to become a backend, frontend or fullstack developer for a software development company. I would like to continue to learn new frameworks, APIs, and languages as I continue on my path to a bachalor degree in Computer Science. I am also interested in improving my project oragization and planning skills to help me complete more projects.
+My goal is to become a backend, frontend, or full stack developer for a software development company. I would like to continue to learn new frameworks, APIs, and languages as I continue my path to a bachelor’s degree in computer science. I am also interested in improving my project organization and planning skills to help me complete more projects.
