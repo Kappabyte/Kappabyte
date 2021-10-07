@@ -5,12 +5,13 @@ Hi, I'm Avery, a high school student in Alberta, Canada with a passion for progr
 I have many projects in various states of completion:
 
 ### Main Projects
-- KappaEngine - This is a simple LWJGL game engine programmed in Java to help me learn low-level graphics programming using openGL. This project is still in an early stage, but has provided me the oppertunity to learn.
+- SaplingAPI - A cross platform user interaction api for a variety of minecraft server libraries. Currently supports Minestom and Fabric servers.
+- PineEngine - A game engine to help me learn OpenGL and C++. In the very early stages right now.
 - EventAPI - A spigot library designed to allow for the easy implementation of hosted even style games on minecraft servers. The project is currently in 1.0 release.
 - MinecraftMapGUI - A gui application to easily launch minecraft servers for playing your favorite maps. Supports multiple minecraft versions. Written using react and electron in typescript.
 
 ### Secondary Projects
-- The Dungeon - This is a procedurally generated 2D dungeon crawling game written in Processing for my Computer Science 10 final project. This project is in its final state.
+- KappaEngine - This is a simple LWJGL game engine programmed in Java to help me learn low-level graphics programming using openGL. This project is still in an early stage, but has provided me the oppertunity to learn.
 - Kappabot - My general purpose discord bot. Written using discord.js, this bot allows for music to be played in voice channels, with more features comming soon. The project is currently being rewritten in typescript.
 - DotMarch - A simple website to create a visual representation of your "dots" for a field show, creating a printable PDF. Currently in a pre-alpha state, and in a private repo.
 
