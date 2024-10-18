@@ -1,19 +1,32 @@
-# Avery Keuben
-Hi, I'm Avery, a high school student in Alberta, Canada with a passion for programming and solving puzzles. I am currently seeking internship oppertunities over the summer.
+<h1 align="center">
+Hello, I'm Avery Keuben!
+	<a href="https://github.com/Kappabyte" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-## My Projects
-I have many projects in various states of completion:
+<hr>
 
-### Main Projects
-- SaplingAPI - A cross platform user interaction api for a variety of minecraft server libraries. Currently supports Minestom and Fabric servers.
-- PineEngine - A game engine to help me learn OpenGL and C++. In the very early stages right now.
-- EventAPI - A spigot library designed to allow for the easy implementation of hosted even style games on minecraft servers. The project is currently in 1.0 release.
-- MinecraftMapGUI - A gui application to easily launch minecraft servers for playing your favorite maps. Supports multiple minecraft versions. Written using react and electron in typescript.
+<pre>
+💻 I am mainly a Backend Developer
+📚 Working towards a Bachelors in Computer Science from the University of Calgary
+📝 I have a strong interest in Software Engineering, especially game development and graphics programming
+🛠️ Currently working as a Research Assistant at the University of Calgary
+🌱 Learning zig and vulkan
+🌟 Main language: Typescript
+</pre>
+<hr>
 
-### Secondary Projects
-- KappaEngine - This is a simple LWJGL game engine programmed in Java to help me learn low-level graphics programming using openGL. This project is still in an early stage, but has provided me the oppertunity to learn.
-- Kappabot - My general purpose discord bot. Written using discord.js, this bot allows for music to be played in voice channels, with more features comming soon. The project is currently being rewritten in typescript.
-- DotMarch - A simple website to create a visual representation of your "dots" for a field show, creating a printable PDF. Currently in a pre-alpha state, and in a private repo.
+## 🤝 Connect with me
 
-## Goals
-My goal is to become a backend, frontend, or full stack developer for a software development company. I would like to continue to learn new frameworks, APIs, and languages as I continue my path to a bachelor’s degree in computer science. I am also interested in improving my project organization and planning skills to help me complete more projects.
+<p align="center">
+	<a href="mailto:avery1516@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/avery-keuben-07b666210/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://kappabyte.github.io/"><img src="https://img.shields.io/badge/website-blue.svg?style=flat-square&logo=googlechrome&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+## 💻 Current Projects
+
+1. Game Engine: Currently writing a game engine in the zig programming language with the goal of supporting both OpenGL and VUlkan on Windows and Linux PCs.
+2. GEARS: A game to help transition high school students with learning disabilities and ADHD to postsecondary. [More details](https://kappabyte.github.io/project/gears)
+3. Personal Website: [Take a look!](https://kappabyte.github.io)
